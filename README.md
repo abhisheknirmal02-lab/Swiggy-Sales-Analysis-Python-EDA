@@ -29,7 +29,7 @@ Pandas & NumPy (Data Cleaning & Analysis)
 Matplotlib & Seaborn (Visualization)
 Jupyter Notebook
 
-📷 !(Dashboard Preview)[https://github.com/abhisheknirmal02-lab/Swiggy-Sales-Analysis-Python-EDA/blob/main/Swiggy_Analysis_Preview.png?raw=true]
+📷 (Dashboard Preview)[https://github.com/abhisheknirmal02-lab/Swiggy-Sales-Analysis-Python-EDA/blob/main/Swiggy_Analysis_Preview.png]
 
 
 📁 Project Files
