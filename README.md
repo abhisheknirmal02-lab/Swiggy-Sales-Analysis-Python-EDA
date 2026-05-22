@@ -22,12 +22,14 @@ Weekend sales are slightly higher compared to weekdays
 Veg orders contribute a larger share of total revenue
 Certain states dominate overall sales performance
 A few major cities drive a significant portion of revenue
+
 🛠️ Tools & Technologies Used
 Python
 Pandas & NumPy (Data Cleaning & Analysis)
 Matplotlib & Seaborn (Visualization)
 Jupyter Notebook
-📷 (Dashboard Preview)[https://github.com/abhisheknirmal02-lab/Swiggy-Sales-Analysis-Python-EDA/blob/main/Swiggy_Analysis_Preview.png]
+
+📷 !(Dashboard Preview)[https://github.com/abhisheknirmal02-lab/Swiggy-Sales-Analysis-Python-EDA/blob/main/Swiggy_Analysis_Preview.png?raw=true]
 
 
 📁 Project Files
